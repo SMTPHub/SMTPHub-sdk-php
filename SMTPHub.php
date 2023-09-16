@@ -14,7 +14,7 @@ class SMTPHub
     /** 构造函数
      * @param string $api       接口地址，如：https://smtphub.yourcompany.com/api.php
      * @param string $appid     应用ID，如：1000
-     * @param string $appsecret 应用密钥，如：Cd2DBg2R0JuXgLsrkXb6AfLXV8kW8p4k
+     * @param string $appsecret 应用密钥，如：abcdefghijklmnopqrestuvwxyz
      * @return void
      */
     function __construct($api, $appid, $appsecret)
